@@ -50,7 +50,7 @@ Depending on what packages are already installed (and their dependencies), pleas
 
 ### Calculate MPS of a module 
 
-For this portion of the analysis, the file `icamp.R` holds all the function definitions, so please 'source' it. Alternatively, you could also copy paste the function definitions into your R session.
+For this portion of the analysis, the file `pcm.R` holds all the function definitions, so please 'source' it. Alternatively, you could also copy paste the function definitions into your R session.
 
 ```{r}
 source('pcm.R') ### ensure path is OK.
